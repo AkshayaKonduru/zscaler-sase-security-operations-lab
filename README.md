@@ -95,7 +95,7 @@ This project helped develop hands-on experience with:
 - SASE architecture concepts
 - Threat detection workflows
 
----
+
 
 ## Author
 Akshaya Konduru
