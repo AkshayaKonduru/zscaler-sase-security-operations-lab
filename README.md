@@ -11,7 +11,7 @@ The lab demonstrates:
 - Phishing detection workflows
 - Security dashboarding and analytics
 
----
+
 
 ## Technologies Used
 - Ubuntu 24.04
@@ -22,7 +22,6 @@ The lab demonstrates:
 - SIEM Monitoring
 - SASE Security Architecture
 
----
 
 ## Features
 - Simulated enterprise web traffic
@@ -32,7 +31,7 @@ The lab demonstrates:
 - User activity analysis
 - Threat monitoring workflows
 
----
+
 
 ## Dashboard Visualizations
 The project includes:
@@ -46,7 +45,7 @@ Dashboard export available in:
 screenshots/zscaler_security_operations_dashboard-2026-05-27.pdf
 ```
 
----
+
 
 ## Detection Queries
 
@@ -84,7 +83,7 @@ screenshots/
 README.md
 ```
 
----
+
 
 ## Learning Outcomes
 This project helped develop hands-on experience with:
